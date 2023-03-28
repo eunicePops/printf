@@ -24,9 +24,3 @@ int prinlunt(va_list arguments, char *buf, unsigned int ibuf)
 	}
 	return (i);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Priv
